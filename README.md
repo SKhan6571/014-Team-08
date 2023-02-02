@@ -3,4 +3,4 @@
 Name: Silas Khan       User: SKhan6571
 Name: Tyler Chung      User: tylertchung
 Name: Daniel Bonnecaze  User: dbcolobuff
-Name: Arjun Peeroor                 User: aRjunp03
+Name: Arjun Peeroor                 User: Arjunp03
